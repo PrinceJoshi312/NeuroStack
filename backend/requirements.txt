@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+google-generativeai
+redis
+python-dotenv
+sqlalchemy
+pydantic
+pydantic-settings
+httpx
+python-multipart
+# Add more as needed during development
